@@ -1,3 +1,4 @@
+<?php
 // scripts/load.sqlite.php
  
 /**
